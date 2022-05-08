@@ -1,2 +1,2 @@
 # sc_geo_data
-Show Geo Data of Connected Shoutcast Connections
+Show geo data of connected SHOUTcast connections.
